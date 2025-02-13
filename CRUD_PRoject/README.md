@@ -5,6 +5,11 @@
 yarn install
 ```
 
+### First Rund JSON Server
+```
+json-server --watch db/data.json 
+```
+
 ### Compiles and hot-reloads for development
 ```
 yarn serve
